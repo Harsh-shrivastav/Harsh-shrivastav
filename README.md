@@ -2,7 +2,7 @@
 <h3 align="center">🚀 MERN Developer | 🤖 AI/ML Explorer | 🎓 CSE Undergrad</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+impactful+tech+with+empathy;Exploring+AI%2C+ML+%26+Web+Development;Always+learning+%26+collaborating" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Building+impactful+tech+with+empathy;Exploring+AI%2C+ML+%26+Web+Development;Always+learning+%26+collaborating](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Designing+tech+that+makes+a+difference;MERN+Stack+%7C+AI%2FML+Explorer;Driven+by+curiosity+%26+collaboration" alt="Typing SVG" />
 </p>
 
 ---
