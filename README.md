@@ -57,7 +57,7 @@
 
 ## 📫 Connect With Me
 
-- 💼 [LinkedIn](https://linkedin.com/in/harsh-shrivastav)
+- 💼 [LinkedIn](https://www.linkedin.com/in/harsh-shrivastava)
 - 📬 Email: harsh.xspectrum@gmail.com
 - 🌐 Portfolio: Coming Soon
 
